@@ -1,0 +1,80 @@
+,tissue,group,nevus type,braf mutation,nras mutation,condition,KMeans_cluster
+GSM3071633,benign melanocytic nevi,Naevi_1,dermal,mut,wt,Benign,1
+GSM3071634,benign melanocytic nevi,Naevi_1,dermal,mut,mut,Benign,1
+GSM3071635,benign melanocytic nevi,Naevi_1,compound,mut,wt,Benign,1
+GSM3071636,benign melanocytic nevi,Naevi_1,dermal,wt,mut,Benign,1
+GSM3071637,benign melanocytic nevi,Naevi_1,dermal,mut,wt,Benign,0
+GSM3071638,benign melanocytic nevi,Naevi_1,compound,wt,mut,Benign,0
+GSM3071639,benign melanocytic nevi,Naevi_1,compound,mut,wt,Benign,0
+GSM3071640,benign melanocytic nevi,Naevi_1,dermal,mut,wt,Benign,0
+GSM3071641,benign melanocytic nevi,Naevi_1,compound,mut,wt,Benign,0
+GSM3071642,benign melanocytic nevi,Naevi_1,dermal,mut,wt,Benign,0
+GSM3071643,benign melanocytic nevi,Naevi_1,dermal,n.a.,wt,Benign,0
+GSM3071644,benign melanocytic nevi,Naevi_1,compound,mut,mut,Benign,0
+GSM3071645,benign melanocytic nevi,Naevi_1,dermal,mut,mut,Benign,1
+GSM3071646,primary melanoma,Mel_1,yes,wt,mut,Melanoma,0
+GSM3071647,primary melanoma,Mel_1,no,wt,mut,Melanoma,1
+GSM3071648,primary melanoma,Mel_1,yes,wt,mut,Melanoma,0
+GSM3071649,primary melanoma,Mel_1,no,mut,mut,Melanoma,1
+GSM3071650,primary melanoma,Mel_1,no,wt,mut,Melanoma,1
+GSM3071651,primary melanoma,Mel_1,yes,wt,mut,Melanoma,1
+GSM3071652,primary melanoma,Mel_1,no,mut,mut,Melanoma,0
+GSM3071653,primary melanoma,Mel_1,no,wt,wt,Melanoma,1
+GSM3071654,primary melanoma,Mel_1,yes,wt,mut,Melanoma,0
+GSM3071655,primary melanoma,Mel_1,yes,wt,wt,Melanoma,0
+GSM3071656,primary melanoma,Mel_1,yes,wt,mut,Melanoma,0
+GSM3071657,primary melanoma,Mel_1,yes,wt,mut,Melanoma,0
+GSM3071658,primary melanoma,Mel_1,yes,wt,mut,Melanoma,0
+GSM3071659,primary melanoma,Mel_1,no,mut,wt,Melanoma,0
+GSM3071660,primary melanoma,Mel_1,yes,wt,mut,Melanoma,0
+GSM3071661,primary melanoma,Mel_1,no,wt,mut,Melanoma,1
+GSM3071662,primary melanoma,Mel_1,no,wt,wt,Melanoma,0
+GSM3071663,primary melanoma,Mel_1,no,mut,mut,Melanoma,1
+GSM3071664,primary melanoma,Mel_1,no,wt,mut,Melanoma,0
+GSM3071665,primary melanoma,Mel_1,no,mut,wt,Melanoma,0
+GSM3071666,primary melanoma,Mel_1,no,mut,wt,Melanoma,0
+GSM3071667,primary melanoma,Mel_1,no,mut,wt,Melanoma,1
+GSM3071668,primary melanoma,Mel_1,no,wt,wt,Melanoma,1
+GSM3071669,primary melanoma,Mel_1,no,wt,wt,Melanoma,1
+GSM3071670,primary melanoma,Mel_1,no,mut,mut,Melanoma,0
+GSM3071671,primary melanoma,Mel_1,no,wt,wt,Melanoma,1
+GSM3071672,benign melanocytic nevi,Naevi_2,dermal,mut,mut,Benign,1
+GSM3071673,benign melanocytic nevi,Naevi_2,dermal,mut,wt,Benign,0
+GSM3071674,benign melanocytic nevi,Naevi_2,compound,wt,mut,Benign,0
+GSM3071675,benign melanocytic nevi,Naevi_2,compound,mut,wt,Benign,1
+GSM3071676,benign melanocytic nevi,Naevi_2,compound,wt,mut,Benign,1
+GSM3071677,benign melanocytic nevi,Naevi_2,compound,n.a.,wt,Benign,0
+GSM3071678,benign melanocytic nevi,Naevi_2,compound,mut,wt,Benign,1
+GSM3071679,benign melanocytic nevi,Naevi_2,compound,wt,wt,Benign,0
+GSM3071680,benign melanocytic nevi,Naevi_2,dermal,wt,wt,Benign,1
+GSM3071681,benign melanocytic nevi,Naevi_2,dermal,wt,wt,Benign,0
+GSM3071682,primary melanoma,Mel_2,yes,wt,mut,Melanoma,1
+GSM3071683,primary melanoma,Mel_2,no,mut,wt,Melanoma,0
+GSM3071684,primary melanoma,Mel_2,no,wt,wt,Melanoma,1
+GSM3071685,primary melanoma,Mel_2,no,mut,wt,Melanoma,1
+GSM3071686,primary melanoma,Mel_2,no,wt,mut,Melanoma,1
+GSM3071687,primary melanoma,Mel_2,no,wt,wt,Melanoma,0
+GSM3071688,primary melanoma,Mel_2,yes,n.a.,n.a.,Melanoma,0
+GSM3071689,primary melanoma,Mel_2,no,wt,wt,Melanoma,0
+GSM3071690,primary melanoma,Mel_2,no,wt,wt,Melanoma,1
+GSM3071692,primary melanoma,Mel_2,no,mut,wt,Melanoma,1
+GSM3071693,primary melanoma,Mel_2,no,mut,wt,Melanoma,1
+GSM3071694,primary melanoma,Mel_2,no,mut,wt,Melanoma,1
+GSM3071695,primary melanoma,Mel_2,no,wt,wt,Melanoma,1
+GSM3071696,primary melanoma,Mel_2,no,mut,wt,Melanoma,1
+GSM3071697,primary melanoma,Mel_2,no,mut,wt,Melanoma,0
+GSM3071698,primary melanoma,Mel_2,no,mut,wt,Melanoma,0
+GSM3071699,primary melanoma,Mel_2,no,mut,wt,Melanoma,1
+GSM3071700,primary melanoma,Mel_2,no,wt,wt,Melanoma,0
+GSM3071701,primary melanoma,Mel_2,no,mut,wt,Melanoma,1
+GSM3071702,primary melanoma,Mel_2,no,mut,wt,Melanoma,1
+GSM3071703,primary melanoma,Mel_2,no,mut,wt,Melanoma,0
+GSM3071704,primary melanoma,Mel_2,no,wt,wt,Melanoma,1
+GSM3071705,primary melanoma,Mel_2,no,wt,wt,Melanoma,1
+GSM3071706,primary melanoma,Mel_2,no,wt,wt,Melanoma,1
+GSM3071707,primary melanoma,Mel_2,no,wt,wt,Melanoma,1
+GSM3071708,primary melanoma,Mel_2,no,mut,wt,Melanoma,1
+GSM3071709,primary melanoma,Mel_2,yes,wt,wt,Melanoma,1
+GSM3071710,primary melanoma,Mel_2,no,mut,wt,Melanoma,0
+GSM3071711,primary melanoma,Mel_2,no,mut,wt,Melanoma,1
+GSM3071712,primary melanoma,Mel_2,no,wt,mut,Melanoma,1
